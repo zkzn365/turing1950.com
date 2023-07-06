@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p 3050",
+    "start": "next start -p 9050",
     "pm2start": "pm2 start npm --name turing1950 -- run start",
     "lint": "next lint"
   },
