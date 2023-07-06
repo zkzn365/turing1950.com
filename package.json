@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "pm2start": "pm2 start npm --name turing1950 -- run start",
     "lint": "next lint"
   },
   "dependencies": {
